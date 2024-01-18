@@ -1,0 +1,416 @@
+2024-01-11 13:31:11,741 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 13:31:15,025 - INFO - Embeddings and chain successfully generated.
+2024-01-11 13:31:31,339 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 13:31:32,008 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 14:07:57,240 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:07:58,008 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 14:17:10,472 - INFO - Search Query: which students should use this book (Timestamp: 2024-01-11 14:17:10)
+2024-01-11 14:17:11,001 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:17:11,818 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 14:20:07,839 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:20:10,603 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 14:20:10,604 - INFO - User Query: what is the benefits of reading this book - Bot Response: 
+
+The benefits of reading this book may include gaining knowledge and understanding about various topics such as nutrition, heat, acids and bases, physical and chemical changes, respiration, transportation, reproduction, sanitation, and disease. It may also help in improving critical thinking skills and developing a deeper understanding of the concepts discussed in the book. Additionally, it may help in preparing for exams or gaining a better understanding of the subject matter. (Timestamp: 2024-01-11 14:20:10)
+2024-01-11 14:30:19,278 - INFO - Retrieving http://search.maven.org/remotecontent?filepath=org/apache/tika/tika-server-standard/2.6.0/tika-server-standard-2.6.0.jar to C:\Users\david\AppData\Local\Temp\tika-server.jar.
+2024-01-11 14:30:26,934 - INFO - Retrieving http://search.maven.org/remotecontent?filepath=org/apache/tika/tika-server-standard/2.6.0/tika-server-standard-2.6.0.jar.md5 to C:\Users\david\AppData\Local\Temp\tika-server.jar.md5.
+2024-01-11 14:30:29,008 - ERROR - Unable to run java; is it installed?
+2024-01-11 14:30:29,008 - ERROR - Failed to receive startup confirmation from startServer.
+2024-01-11 14:31:57,246 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:32:00,813 - INFO - Loading faiss with AVX2 support.
+2024-01-11 14:32:00,813 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2024-01-11 14:32:00,813 - INFO - Loading faiss.
+2024-01-11 14:32:00,888 - INFO - Successfully loaded faiss.
+2024-01-11 14:32:03,390 - INFO - Embeddings and chain successfully generated.
+2024-01-11 14:32:32,058 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:32:33,078 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 14:32:33,079 - INFO - User Query: give me the highlights of this book - Bot Response:  I don't know which book you are referring to, so I cannot provide the highlights. Can you please provide the title and author of the book? (Timestamp: 2024-01-11 14:32:33)
+2024-01-11 14:33:29,500 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:33:30,869 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 14:33:30,869 - INFO - User Query: give me the highlights of this book in the directory - Bot Response:  Sorry, I don't know which book you are referring to. Can you please provide the title and author of the book? (Timestamp: 2024-01-11 14:33:30)
+2024-01-11 14:33:49,069 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:33:52,333 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 14:33:52,333 - INFO - User Query: give me the highlights of this book in the directory - Bot Response: 
+- Title: Study Material Class VII - Science
+- Publisher: Zonal Institute of Education and Training, Chandigarh
+- Session: 2023-24
+- Class: 7th
+- Subject: Science
+- Website: zietchandigarh.kvs.gov.in
+- Email: kvszietchd@gmail.com
+- Phone: 0172-2921841, 2921994
+- Published by Kendriya Vidyalaya Sangathan (KVS)
+- Commissioner: Mrs. Nidhi Pandey, IIS
+- Director: Mr. Satya Narain Gulia (Timestamp: 2024-01-11 14:33:52)
+2024-01-11 14:34:06,876 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:34:08,819 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 14:34:08,819 - INFO - User Query: give me the highlights of this book  - Bot Response: 
+
+- The book is titled "Forest Our Life Line" and is written by Ms. Chandana Mandal.
+- It is written in Hindi and is published by the Joint Commissioner of Training.
+- The book focuses on the importance of forests and their conservation.
+- It highlights the need for technical knowledge and awareness in protecting and managing forests.
+- The book was published in 2020 and aligns with the goals of the United Nations Sustainable Development. (Timestamp: 2024-01-11 14:34:08)
+2024-01-11 14:34:45,069 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:34:46,619 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 14:34:46,620 - INFO - User Query: give me the highlights of this book "" - Bot Response: 
+
+I am sorry, I cannot provide highlights of a book without knowing its title and author. Can you please provide more information? (Timestamp: 2024-01-11 14:34:46)
+2024-01-11 14:34:56,739 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:35:02,682 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 14:35:02,682 - INFO - User Query: give me the highlights of this book "Science Class VII 2023-24 (2).pdf" - Bot Response: 
+
+1. Title: Science Class VII 2023-24 (2).pdf
+2. Published by: Kendriya Vidyalaya Sangathan, Zonal Institute of Education and Training, Chandigarh
+3. Session: 2023-24
+4. Class: Seventh (VII)
+5. Subject: Science
+6. Total number of pages: 65
+7. Chapters covered: Nutrition in Plants, Nutrition in Animals, Heat, Acids, Bases and Salts, Physical and Chemical Changes, Respiration in Organisms, Transportation in Animals and Plants, Reproduction in Plants, Motion and Time, Electric Currents and its Effects, Light, Forests: Our Lifeline
+8. Important concepts covered: photosynthesis, autotrophs, nutrients, digestion, clinical thermometer, sublimation, acid rain, hydrochloric acid, soap solution, baking soda
+9. Format: digital (pdf file)
+10. Publisher's contact information: zietchandigarh.kvs.gov.in, kvszietchd@gmail.com, 0172-2921841, 2921994 (Timestamp: 2024-01-11 14:35:02)
+2024-01-11 14:35:30,327 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:35:31,558 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 14:35:31,558 - INFO - User Query: who is the publisher - Bot Response: 
+
+The publisher is ZONAL INSTITUTE OF EDUCATION AND TRAINING, CHANDIGARH. (Timestamp: 2024-01-11 14:35:31)
+2024-01-11 14:38:43,653 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-01-11 14:38:43,653 - INFO - Retrying request to /embeddings in 0.764301 seconds
+2024-01-11 14:38:46,418 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-01-11 14:38:46,419 - INFO - Retrying request to /embeddings in 1.963391 seconds
+2024-01-11 14:38:49,485 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-01-11 14:44:19,464 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:44:24,569 - INFO - Embeddings and chain successfully generated.
+2024-01-11 14:45:25,559 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 14:45:26,068 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 400 Bad Request"
+2024-01-11 15:06:32,753 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 15:06:33,224 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 400 Bad Request"
+2024-01-11 15:08:38,457 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 15:08:38,964 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 400 Bad Request"
+2024-01-11 15:39:14,775 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 15:39:15,388 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 15:39:15,388 - INFO - User Query: who is the author - Bot Response:  I don't know. (Timestamp: 2024-01-11 15:39:15)
+2024-01-11 15:39:28,386 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 15:39:29,261 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 15:39:29,261 - INFO - User Query: who is the author of this book - Bot Response:  
+There is no mention of a book in the given context, so it is not possible to determine the author. (Timestamp: 2024-01-11 15:39:29)
+2024-01-11 15:39:47,786 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 15:39:48,645 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 15:39:48,647 - INFO - User Query: what book is this - Bot Response:  This appears to be a study material book for Class 7 Science in the Kendriya Vidyalaya Sangathan. (Timestamp: 2024-01-11 15:39:48)
+2024-01-11 15:40:03,977 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 15:40:04,714 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 15:40:04,716 - INFO - User Query: what are the contents - Bot Response:  I do not have enough context to provide a helpful answer. Please provide more information. (Timestamp: 2024-01-11 15:40:04)
+2024-01-11 15:40:23,524 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 15:40:24,692 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-11 15:40:24,692 - INFO - User Query: what are the contents available i this book - Bot Response:  I am not sure which book you are referring to, so I cannot provide a specific answer. However, most books usually contain information, illustrations, diagrams, charts, tables, exercises, and examples related to a specific topic or subject. (Timestamp: 2024-01-11 15:40:24)
+2024-01-11 15:46:16,591 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 15:50:03,847 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 15:54:06,401 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 15:59:07,004 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 16:03:50,307 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 16:12:19,649 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 16:12:22,201 - ERROR - Error in get_embeddings_and_chain: Unrecognized configuration class <class 'transformers.models.llama.configuration_llama.LlamaConfig'> for this kind of AutoModel: AutoModelForQuestionAnswering.
+Model type should be one of AlbertConfig, BartConfig, BertConfig, BigBirdConfig, BigBirdPegasusConfig, BloomConfig, CamembertConfig, CanineConfig, ConvBertConfig, Data2VecTextConfig, DebertaConfig, DebertaV2Config, DistilBertConfig, ElectraConfig, ErnieConfig, ErnieMConfig, FalconConfig, FlaubertConfig, FNetConfig, FunnelConfig, GPT2Config, GPTNeoConfig, GPTNeoXConfig, GPTJConfig, IBertConfig, LayoutLMv2Config, LayoutLMv3Config, LEDConfig, LiltConfig, LongformerConfig, LukeConfig, LxmertConfig, MarkupLMConfig, MBartConfig, MegaConfig, MegatronBertConfig, MobileBertConfig, MPNetConfig, MptConfig, MraConfig, MT5Config, MvpConfig, NezhaConfig, NystromformerConfig, OPTConfig, QDQBertConfig, ReformerConfig, RemBertConfig, RobertaConfig, RobertaPreLayerNormConfig, RoCBertConfig, RoFormerConfig, SplinterConfig, SqueezeBertConfig, T5Config, UMT5Config, XLMConfig, XLMRobertaConfig, XLMRobertaXLConfig, XLNetConfig, XmodConfig, YosoConfig.
+2024-01-11 16:24:06,179 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 16:31:16,462 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 16:31:18,762 - ERROR - Error in get_embeddings_and_chain: Unrecognized configuration class <class 'transformers.models.llama.configuration_llama.LlamaConfig'> for this kind of AutoModel: AutoModelForQuestionAnswering.
+Model type should be one of AlbertConfig, BartConfig, BertConfig, BigBirdConfig, BigBirdPegasusConfig, BloomConfig, CamembertConfig, CanineConfig, ConvBertConfig, Data2VecTextConfig, DebertaConfig, DebertaV2Config, DistilBertConfig, ElectraConfig, ErnieConfig, ErnieMConfig, FalconConfig, FlaubertConfig, FNetConfig, FunnelConfig, GPT2Config, GPTNeoConfig, GPTNeoXConfig, GPTJConfig, IBertConfig, LayoutLMv2Config, LayoutLMv3Config, LEDConfig, LiltConfig, LongformerConfig, LukeConfig, LxmertConfig, MarkupLMConfig, MBartConfig, MegaConfig, MegatronBertConfig, MobileBertConfig, MPNetConfig, MptConfig, MraConfig, MT5Config, MvpConfig, NezhaConfig, NystromformerConfig, OPTConfig, QDQBertConfig, ReformerConfig, RemBertConfig, RobertaConfig, RobertaPreLayerNormConfig, RoCBertConfig, RoFormerConfig, SplinterConfig, SqueezeBertConfig, T5Config, UMT5Config, XLMConfig, XLMRobertaConfig, XLMRobertaXLConfig, XLNetConfig, XmodConfig, YosoConfig.
+2024-01-11 16:34:37,419 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-11 16:34:39,770 - ERROR - Error in get_embeddings_and_chain: Unrecognized configuration class <class 'transformers.models.llama.configuration_llama.LlamaConfig'> for this kind of AutoModel: AutoModelForQuestionAnswering.
+Model type should be one of AlbertConfig, BartConfig, BertConfig, BigBirdConfig, BigBirdPegasusConfig, BloomConfig, CamembertConfig, CanineConfig, ConvBertConfig, Data2VecTextConfig, DebertaConfig, DebertaV2Config, DistilBertConfig, ElectraConfig, ErnieConfig, ErnieMConfig, FalconConfig, FlaubertConfig, FNetConfig, FunnelConfig, GPT2Config, GPTNeoConfig, GPTNeoXConfig, GPTJConfig, IBertConfig, LayoutLMv2Config, LayoutLMv3Config, LEDConfig, LiltConfig, LongformerConfig, LukeConfig, LxmertConfig, MarkupLMConfig, MBartConfig, MegaConfig, MegatronBertConfig, MobileBertConfig, MPNetConfig, MptConfig, MraConfig, MT5Config, MvpConfig, NezhaConfig, NystromformerConfig, OPTConfig, QDQBertConfig, ReformerConfig, RemBertConfig, RobertaConfig, RobertaPreLayerNormConfig, RoCBertConfig, RoFormerConfig, SplinterConfig, SqueezeBertConfig, T5Config, UMT5Config, XLMConfig, XLMRobertaConfig, XLMRobertaXLConfig, XLNetConfig, XmodConfig, YosoConfig.
+2024-01-12 10:00:36,458 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-12 10:00:42,262 - INFO - Loading faiss with AVX2 support.
+2024-01-12 10:00:42,263 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2024-01-12 10:00:42,263 - INFO - Loading faiss.
+2024-01-12 10:00:42,417 - INFO - Successfully loaded faiss.
+2024-01-12 10:00:45,151 - INFO - Embeddings and chain successfully generated.
+2024-01-12 10:02:08,156 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-12 10:02:11,436 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-12 10:02:11,436 - INFO - User Query: how many chapters are there in this book - Bot Response:  There are 9 chapters in this book, starting from Chapter 1: Nutrition in Plants, to Chapter 9: Motion and Time. (Timestamp: 2024-01-12 10:02:11)
+2024-01-12 10:14:41,339 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-12 10:14:43,291 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-12 10:14:43,291 - INFO - User Query: description for the chapter 1 - Bot Response:  The chapter 1 of the study material for class 7 science is titled "Nutrition in Plants" and talks about the process of nutrition in living organisms, specifically in plants. It covers topics such as autotrophs, photosynthesis, and the role of nutrients in providing nourishment to the body. The chapter also emphasizes the importance of understanding technical concepts and managing stress and pressure in order to achieve the goals set for the academic session.  (Timestamp: 2024-01-12 10:14:43)
+2024-01-12 11:35:15,996 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-12 11:35:18,763 - INFO - Embeddings and chain successfully generated.
+2024-01-12 11:35:57,042 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-12 11:35:57,579 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 400 Bad Request"
+2024-01-12 11:36:53,890 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-12 11:36:54,441 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 400 Bad Request"
+2024-01-12 11:37:38,937 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-12 11:37:39,385 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 400 Bad Request"
+2024-01-12 11:38:12,952 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-12 11:38:13,496 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 400 Bad Request"
+2024-01-12 13:46:19,598 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-12 13:46:19,988 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 400 Bad Request"
+2024-01-12 15:38:28,723 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-12 15:38:29,429 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 400 Bad Request"
+2024-01-13 09:37:56,409 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 09:37:58,277 - INFO - Loading faiss with AVX2 support.
+2024-01-13 09:37:58,277 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2024-01-13 09:37:58,277 - INFO - Loading faiss.
+2024-01-13 09:37:58,477 - INFO - Successfully loaded faiss.
+2024-01-13 09:37:59,642 - INFO - Embeddings and chain successfully generated.
+2024-01-13 09:38:50,163 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 09:38:50,732 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 400 Bad Request"
+2024-01-13 10:12:47,469 - WARNING - Created a chunk of size 1058, which is longer than the specified 1000
+2024-01-13 10:12:47,474 - WARNING - Created a chunk of size 1033, which is longer than the specified 1000
+2024-01-13 10:12:53,209 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-01-13 10:12:53,209 - INFO - Retrying request to /embeddings in 0.859881 seconds
+2024-01-13 10:12:55,526 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-01-13 10:12:55,526 - INFO - Retrying request to /embeddings in 1.679201 seconds
+2024-01-13 10:12:58,792 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-01-13 10:15:01,873 - WARNING - Created a chunk of size 1058, which is longer than the specified 1000
+2024-01-13 10:15:01,885 - WARNING - Created a chunk of size 1033, which is longer than the specified 1000
+2024-01-13 10:15:07,536 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-01-13 10:15:07,537 - INFO - Retrying request to /embeddings in 0.940189 seconds
+2024-01-13 10:15:09,887 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-01-13 10:15:09,903 - INFO - Retrying request to /embeddings in 1.586999 seconds
+2024-01-13 10:15:12,819 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2024-01-13 10:15:56,300 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 10:15:59,702 - INFO - Embeddings and chain successfully generated.
+2024-01-13 10:16:11,700 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 10:16:12,929 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 10:16:12,932 - INFO - User Query: what book is this - Bot Response:  This appears to be a study material or textbook for a class VII Science course, possibly from the Central Board of Secondary Education (CBSE) in India. However, the exact title of the book is not provided in the given context.  (Timestamp: 2024-01-13 10:16:12)
+2024-01-13 10:16:41,890 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 10:16:43,253 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 10:16:43,254 - INFO - User Query: what are the topics in this book - Bot Response:  The topics in this book include Nutrition in Plants, Nutrition in Animals, Heat, Acids, Base and Salt, Physical and Chemical Changes, Respiration in Organisms, Transportation in Animals and Plants, Reproduction in Plants, Motion and Time, Electric Currents and its Effects, Light, and Forests: Our Lifeline. (Timestamp: 2024-01-13 10:16:43)
+2024-01-13 10:17:11,717 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 10:17:13,144 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 10:17:13,145 - INFO - User Query: give me 5 questions from topic Transportation in Animals and Plants - Bot Response:  
+1. What is the primary function of the circulatory system in animals?
+2. How is water transported from the roots to the leaves in plants?
+3. What is the role of phloem in plant transportation?
+4. How does transpiration help in the transportation of water in plants?
+5. What is the difference between xylem and phloem in terms of their functions in plants? (Timestamp: 2024-01-13 10:17:13)
+2024-01-13 10:17:52,052 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 10:17:55,128 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 10:17:55,128 - INFO - User Query: give me 5 questions and answer  from topic Transportation in Animals and Plants - Bot Response: 
+1. What is the main function of phloem in plants?
+Answer: Phloem is responsible for transporting the soluble organic material created during photosynthesis from the leaves to other parts of the plant.
+
+2. How do root hairs help with the process of transportation in plants?
+Answer: Root hairs increase the surface area of the roots, allowing for increased exchange of water and minerals, which are essential for transportation.
+
+3. How does osmosis contribute to transportation in plants?
+Answer: Osmosis is the movement of solvent molecules from a region of lower solute concentration to a region of higher solute concentration, which helps in the transport of nutrients and water in plants.
+
+4. What is the process by which water is transported from the roots to the leaves in plants?
+Answer: The process is called transpiration, which is the loss of water in the form of water vapor from stomata present on leaves.
+
+5. How does transpiration help in the transportation of water in plants?
+Answer: Transpiration creates a straw-like effect, pulling water up against gravity through tubes made of xylem cells, which transport water and other nutrients from the roots to other parts of the plant. (Timestamp: 2024-01-13 10:17:55)
+2024-01-13 12:35:01,911 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:35:03,244 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:35:03,245 - INFO - User Query: what book is this - Bot Response:  This appears to be a study material or textbook for a class VII science course. It includes information about nutrition in plants, as well as other topics such as heat, acids and bases, and reproduction. It is published by the Zonal Institute of Education and Training in Chandigarh. (Timestamp: 2024-01-13 12:35:03)
+2024-01-13 12:35:26,316 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:35:27,551 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:35:27,553 - INFO - User Query: what re the chapters available in this book - Bot Response:  The available chapters in this book are Nutrition in Plants, Nutrition in Animals, Heat, Acids, Base and Salt, Physical and Chemical Changes, Respiration in Organisms, Transportation in Animals and Plants, Reproduction in Plants, Motion and Time, Electric Currents and its Effects, Light, and Forests: Our Lifeline. (Timestamp: 2024-01-13 12:35:27)
+2024-01-13 12:37:40,849 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:37:44,379 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:37:44,379 - INFO - User Query: create  question and answers from chapter 1  - Bot Response: 
+
+Question: What is the mode of taking food by an organism and its utilization by the body called?
+Answer: The mode of taking food by an organism and its utilization by the body is called nutrition.
+
+Question: What are components of food that provide nourishment to the body called?
+Answer: The components of food that provide nourishment to the body are called nutrients.
+
+Question: What is the process by which green plants prepare their own food using carbon dioxide and water?
+Answer: The process by which green plants prepare their own food using carbon dioxide and water is called photosynthesis.
+
+Question: What is the difference between autotrophs and heterotrophs?
+Answer: Autotrophs are organisms that can make their own food, while heterotrophs rely on other sources for their food.
+
+Question: What is the most commonly used natural indicator?
+Answer: The most commonly used natural indicator is litmus.
+
+Question: What is the nature of baking soda?
+Answer: Baking soda is basic in nature.
+
+Question: Where does the word "acid" come from?
+Answer: The word "acid" comes from the Latin word "acere" which means sour.
+
+Question: Why do curd, lemon juice, orange juice, and vinegar taste sour?
+Answer: (Timestamp: 2024-01-13 12:37:44)
+2024-01-13 12:54:52,968 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:54:56,260 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:54:56,261 - INFO - User Query: prepare question and answers - Bot Response: 
+Q: What is the difference between a conductor and an insulator?
+A: A conductor is a material that allows electricity to flow through it, while an insulator is a material that does not allow electricity to flow through it.
+
+Q: What is the function of a fuse in an electrical circuit?
+A: A fuse is a safety device that breaks the circuit if the current becomes too high, protecting the appliances and preventing electrical fires.
+
+Q: How do series and parallel circuits differ?
+A: In a series circuit, all components are connected in a single loop, while in a parallel circuit, components are connected in multiple branches. In a series circuit, the same current flows through each component, while in a parallel circuit, the current is divided between the branches.
+
+Q: What is the relationship between voltage, current, and resistance in an electrical circuit?
+A: The relationship is described by Ohm's Law: voltage (V) = current (I) x resistance (R).
+
+Q: How does a battery produce electricity?
+A: A battery converts chemical energy into electrical energy through a chemical reaction between the electrodes and the electrolyte solution.
+
+Q: What is the difference between AC and DC current?
+A: AC (alternating current) continuously changes direction, while DC (Timestamp: 2024-01-13 12:54:56)
+2024-01-13 12:55:19,082 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:55:22,521 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:55:22,522 - INFO - User Query: prepare 100 question and answers  - Bot Response:  
+1. What is the capital of France?
+Answer: Paris 
+
+2. Who invented the telephone?
+Answer: Alexander Graham Bell
+
+3. What is the largest mammal in the world?
+Answer: The blue whale 
+
+4. What is the chemical symbol for gold?
+Answer: Au 
+
+5. Who wrote the famous novel "To Kill a Mockingbird"?
+Answer: Harper Lee 
+
+6. What is the tallest mountain in the world?
+Answer: Mount Everest 
+
+7. What is the name of the currency used in Japan?
+Answer: Japanese Yen 
+
+8. Who is known as the "Father of Geometry"?
+Answer: Euclid 
+
+9. What is the capital of Australia?
+Answer: Canberra 
+
+10. Who is the current President of the United States?
+Answer: Joe Biden 
+
+11. What is the smallest country in the world?
+Answer: Vatican City 
+
+12. Who painted the famous artwork "The Mona Lisa"?
+Answer: Leonardo da Vinci 
+
+13. How many elements are in the periodic table?
+Answer: 118 
+
+14. What is the largest ocean in the world?
+Answer: Pacific Ocean 
+
+15. Who wrote the famous play "Romeo and Juliet"?
+Answer: William Shakespeare 
+
+16. What is the capital (Timestamp: 2024-01-13 12:55:22)
+2024-01-13 12:55:36,089 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:55:37,306 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:55:37,308 - INFO - User Query: prepare 100 question and answers  from this book - Bot Response:  I am sorry, I am not able to complete this task as it would require me to go through the entire book and create questions and answers manually. I am designed to assist with quick and simple tasks, rather than lengthy and complex ones. Is there something specific you would like me to help you with? (Timestamp: 2024-01-13 12:55:37)
+2024-01-13 12:56:00,743 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:56:01,614 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:56:01,615 - INFO - User Query: prepare question and answers  from this book - Bot Response:  I'm sorry, I cannot generate questions and answers from a book. I can only provide information and answer specific questions based on the context given.  (Timestamp: 2024-01-13 12:56:01)
+2024-01-13 12:56:16,077 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:56:18,314 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:56:18,315 - INFO - User Query: create question and answers  from this book - Bot Response:  What is the topic of Chapter 1? 
+- What are nutrients? 
+- What is the purpose of nutrition? 
+- What are autotrophs? 
+- What is the process by which green plants prepare their own food? 
+- What are the components required for photosynthesis? 
+- What is the most commonly used natural indicator? 
+- What is the nature of baking soda? 
+- Where does the word acid come from? 
+- Why do certain substances taste sour? 
+- What is the most commonly used acid in our body? 
+- What happens when red litmus paper is dipped in a solution? 
+- What are the effects of acid rain? (Timestamp: 2024-01-13 12:56:18)
+2024-01-13 12:56:37,957 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:56:38,634 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:56:38,635 - INFO - User Query: create question with answers  from this book - Bot Response:  What is the title of the book? 
+Answer: The title of the book is "Science Class 7". (Timestamp: 2024-01-13 12:56:38)
+2024-01-13 12:57:11,020 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:57:15,093 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:57:15,093 - INFO - User Query: create question and answers  from all chapters of this book - Bot Response: 
+
+1. NUTRITION IN PLANTS
+Q: What is nutrition?
+A: Nutrition is the mode of taking food by an organism and its utilization by the body.
+
+Q: What are nutrients?
+A: Nutrients are the components of food that provide nourishment to the body.
+
+Q: What are autotrophs?
+A: Autotrophs are organisms that can make their own food through the process of photosynthesis.
+
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which green plants prepare their own food using carbon dioxide and sunlight.
+
+2. NUTRITION IN ANIMALS
+Q: How do animals obtain food?
+A: Animals obtain food by consuming other organisms or plants.
+
+Q: What is digestion?
+A: Digestion is the process by which food is broken down into smaller molecules that can be absorbed by the body.
+
+Q: What are the different types of teeth in animals?
+A: The different types of teeth in animals are incisors, canines, premolars, and molars.
+
+Q: How does the body use nutrients?
+A: The body uses nutrients for energy, growth, and maintenance of the body.
+
+3. HEAT
+Q: What is heat?
+A: Heat is a form (Timestamp: 2024-01-13 12:57:15)
+2024-01-13 12:57:43,755 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:57:47,032 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:57:47,033 - INFO - User Query: create question and answers  from all chapter 5 - Bot Response: 
+Chapter 5: Physical and Chemical Changes
+
+1. What is the difference between physical and chemical changes?
+2. Give an example of a physical change.
+3. What are some examples of chemical changes?
+4. How can you reverse a physical change?
+5. Can you reverse a chemical change? Why or why not?
+6. What is the Law of Conservation of Mass?
+7. How can you tell if a chemical change has occurred?
+8. What is the difference between endothermic and exothermic reactions?
+9. How do temperature and pressure affect the rate of a chemical reaction?
+10. What is a catalyst and how does it affect a chemical reaction?
+11. Give an example of a physical change that can lead to a chemical change.
+12. What is the pH scale and how is it used to measure acidity?
+13. Name some common household acids and bases.
+14. What is neutralization and how does it occur?
+15. What are the effects of acid rain on the environment?
+16. What is the difference between an acid and a base?
+17. How are salts formed?
+18. What is the role of enzymes in chemical reactions?
+19. How do chemical reactions play a part in our daily lives?
+20. What is the process (Timestamp: 2024-01-13 12:57:47)
+2024-01-13 12:57:57,474 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-01-13 12:58:00,930 - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+2024-01-13 12:58:00,931 - INFO - User Query: create question and answers  from chapter 5 - Bot Response: 
+1. What is the process of photosynthesis?
+Answer: The process by which green plants prepare their own food using carbon dioxide and sunlight is called photosynthesis.
+
+2. What are the components of food that provide nourishment to the body?
+Answer: Nutrients are the components of food that provide nourishment to the body.
+
+3. What are autotrophs?
+Answer: Autotrophs are organisms, such as green plants, that can synthesize their own food through the process of photosynthesis.
+
+4. How do plants take in carbon dioxide?
+Answer: Plants take in carbon dioxide through tiny openings called stomata on their leaves.
+
+5. What is the main pigment in plants that helps in photosynthesis?
+Answer: Chlorophyll is the main pigment in plants that helps in photosynthesis.
+
+6. What is the role of sunlight in photosynthesis?
+Answer: Sunlight is the source of energy in photosynthesis, which is used to convert carbon dioxide and water into glucose.
+
+7. What are the end products of photosynthesis?
+Answer: The end products of photosynthesis are glucose and oxygen.
+
+8. What is the purpose of respiration in plants?
+Answer: Respiration in plants helps them to break down glucose and release energy for their growth and other metabolic (Timestamp: 2024-01-13 12:58:00)
